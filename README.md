@@ -1,4 +1,4 @@
-<h1 align="center">Ou 👋, eu sou Vanessa Maciel Ferreira</h1>
+<h1 align="center">Oi 👋, eu sou Vanessa Maciel Ferreira</h1>
 <h3 align="center">Analista em formação com foco em cibersegurança e automação de segurança de redes</h3>
 
 - 🔭 Realizei um Laboratório: Análise de Brute Force Xampp - Demonstra minha capacidade de análise de logs, detecção de ataques e mitigação em ambiente simulado: [Análise de Brute Force Xampp](https://github.com/vanneferreeira/analise-bruteforce-xampp/tree/main)
